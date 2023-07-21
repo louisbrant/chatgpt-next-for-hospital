@@ -1,0 +1,16 @@
+/* SidebarActionButton.module.css */
+.button {
+  min-width: 20px;
+  padding: 1px;
+  text-align: center;
+  color: #adb5bd;
+  transition: color 0.2s;
+}
+
+.greenHover:hover {
+  color: #34d399;
+}
+
+.redHover:hover {
+  color: #ef4444;
+}
